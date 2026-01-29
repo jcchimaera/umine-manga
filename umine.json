@@ -5,7 +5,7 @@
   "author": "Seo Kouji",
   "cover": "https://cdn.imgchest.com/files/ca3214e8e0d2.jpg",
   "chapters": {
-    "Chapter 1": {
+    "1": {
       "title": "Umine Inn",
       "volume": "",
       "last_updated": "1768316400",
@@ -15,7 +15,7 @@
         ]
       }
     },
-    "Chapter 2": {
+    "2": {
       "title": "A Secret Passage",
       "volume": "",
       "last_updated": "1768921200",
@@ -25,7 +25,7 @@
         ]
       }
     },
-    "Chapter 3": {
+    "3": {
       "title": "An Ocean Date",
       "volume": "",
       "last_updated": "1769526000",
