@@ -32,11 +32,17 @@
     "4": {
       "title": "TBD",
       "volume": "",
-      "last_updated": "1769684342",
+      "last_updated": "1770130800",
       "groups": {
-        "K Manga": [
-          ""
-        ]
+        "K Manga": ""
+      }
+    },
+    "5": {
+      "title": "TBD",
+      "volume": "",
+      "last_updated": "1770735600",
+      "groups": {
+        "K Manga": ""
       }
     }
   }
