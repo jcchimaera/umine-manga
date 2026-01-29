@@ -6,11 +6,35 @@
   "cover": "https://cdn.kmanga.kodansha.com/static/titles/10001/title_grid_wide_20230411110130ce141c84a295c441dd045fa0afc5f925.png",
   "chapters": {
     "397": {
-      "title": "Chapter 397 - MY GIRLFRIEND AND THE MOON",
+      "title": "MY GIRLFRIEND AND THE MOON",
       "volume": "",
       "last_updated": "1760454000",
       "groups": {
         "K Manga - JCChimaera": "/proxy/api/imgchest/chapter/wl7lakndoyx"
+      }
+    },
+    "398": {
+      "title": "PARTING WAYS WITH MY GIRLFRIEND 3",
+      "volume": "",
+      "last_updated": "1761022800",
+      "groups": {
+        "K Manga - JCChimaera": "/proxy/api/imgchest/chapter/o24a28lwe7l"
+      }
+    },
+    "399": {
+      "title": "THE BOYFRIEND AND HIS DAILY LIFE 2",
+      "volume": "",
+      "last_updated": "1761663600",
+      "groups": {
+        "K Manga - JCChimaera": "/proxy/api/imgchest/chapter/qb4z5pxvd4j"
+      }
+    },
+    "400": {
+      "title": "MY GIRLFRIEND AND THE SCHOOL BAG 1",
+      "volume": "",
+      "last_updated": "1762268400",
+      "groups": {
+        "K Manga - JCChimaera": "/proxy/api/imgchest/chapter/5xy2qxrx9yl"
       }
     }
   }
